@@ -1,4 +1,11 @@
 # pokedexx
+## Por Alessandro Fukuta
+```
+Este projeto tem como objetivo ajudar a comunidade no desenvolvimento de projetos de consumo de API´S Rest
+utilizando VUE.js
+
+## Neste projeto usei as seguintes bibliotecas:
+### AXIOS, BULMA, NODEJS, POKEAPI
 
 ## Project setup
 ```
@@ -22,3 +29,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
